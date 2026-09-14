@@ -1,0 +1,28 @@
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.AssemblyInfoInputs.cache
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.AssemblyInfo.cs
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.csproj.CoreCompileInputs.cache
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.exe
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.deps.json
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.runtimeconfig.json
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.dll
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.pdb
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.dll
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\refint\Linear Motion.dll
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.pdb
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.genruntimeconfig.cache
+C:\Users\pgaultne\source\repos\Linear Motion\Linear Motion\obj\Debug\net8.0\ref\Linear Motion.dll
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.exe
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.deps.json
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.runtimeconfig.json
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.dll
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\bin\Debug\net8.0\Linear Motion.pdb
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.AssemblyInfoInputs.cache
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.AssemblyInfo.cs
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.csproj.CoreCompileInputs.cache
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.dll
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\refint\Linear Motion.dll
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.pdb
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\Linear Motion.genruntimeconfig.cache
+C:\Users\Lab Folders\Desktop\Linear-Motion-Lab-main\Linear Motion\Linear Motion\obj\Debug\net8.0\ref\Linear Motion.dll
