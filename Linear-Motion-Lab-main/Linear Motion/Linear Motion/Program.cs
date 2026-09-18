@@ -1,5 +1,13 @@
 ﻿namespace Linear_Motion
 {
+//created by Payton Gaultney on 08/27/2026, Math and Physics for Games.
+/*
+     The main functionality of this lab is sampling the motion of a ball using the Euler methodoligies, having a starting
+     position and factoring in the acceleration due to gravity, and taking in an initial velocity from the user, this lab 
+     will show a hypothetical for where the ball landed,  how far it moved, and various unit directions and magnitudes 
+     based on the labs results.
+     
+     */
     internal class Program
     {
         static void Main(string[] args)
